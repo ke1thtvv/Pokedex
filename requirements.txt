@@ -1,0 +1,7 @@
+fastai
+numpy
+pandas
+pyqt5
+pygame
+torch
+torchvision
