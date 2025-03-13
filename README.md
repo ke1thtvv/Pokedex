@@ -1,6 +1,6 @@
 # Pokedex - AI-Based Pokemon Recognition
 
-![pokedex1](https://github.com/user-attachments/assets/5427101a-2991-40f5-a5f0-14fc03a965c5)
+![pokedex1](https://github.com/user-attachments/assets/abd7e583-43c4-49c5-9983-958b18090379)
 
 ## Overview
 
