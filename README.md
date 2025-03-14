@@ -4,7 +4,7 @@
 
 ## Overview
 
-Pokedex is an AI-powered application that allows users to recognize and analyze Pokemon from images or by selecting them from a list. It integrates **machine learning**, **computer vision**, and an interactive **GUI** built with PyQt5. The project demonstrates expertise in **deep learning, Python application development, and UI design**, making it an impressive portfolio piece for aspiring software engineers.
+Pokedex is an AI-powered application that allows users to recognize and analyze Pokemon from images or by selecting them from a list. It integrates **machine learning**, **computer vision**, and an interactive **GUI** built with PyQt5. The project demonstrates expertise in **deep learning, Python application development, and UI design**.
 
 ## Features
 - **AI-Powered Pokemon Recognition**: Uses a trained deep learning model to classify Pokemon from images.
