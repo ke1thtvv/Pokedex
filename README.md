@@ -41,7 +41,7 @@ Ensure you have Python 3.8+ installed, along with the required dependencies.
    pip install -r requirements.txt
    ```
 3. Download the trained model from Google Colab:
-   - Open the provided Google Drive [[HERE PLACE LINK](https://drive.google.com/drive/folders/1wlT0jHYsiocOsGTCnMBKVZuqVDDUSqEG?usp=sharing)].
+   - Open the provided Google Drive [[Download](https://drive.google.com/drive/folders/1wlT0jHYsiocOsGTCnMBKVZuqVDDUSqEG?usp=sharing)].
    - Run the download script to get `export.pkl`.
    - Move `export.pkl` to the `train/` directory.
 4. Run the application:
